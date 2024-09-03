@@ -1,0 +1,68 @@
+.nome{
+    text-align: center;
+    padding: 15px;
+}
+
+.descricao{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.foto1 img{
+    width:;
+    height:300px;
+    border: solid black 5px;
+}
+
+.eu{
+    display: flex;
+    justify-content: center;
+}
+
+.sla{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.fotos{
+    display: flex;
+    height:200px;
+    padding: 30px;
+    justify-content: space-around;
+}
+
+.filmes{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.fotos img{
+    border: solid black 5px;    
+}
+
+.pergunta{
+    font-size: 20px;
+}
+.perguntas{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.respota{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imagem2 img{
+    width:;
+    height:400px;
+    border: solid black 5px;
+}
+
+.naosei{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
